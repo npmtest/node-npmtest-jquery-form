@@ -1,6 +1,6 @@
 # npmtest-jquery-form
 
-#### test coverage for  [jquery-form (v4.2.1)](https://github.com/jquery-form/form)  [![npm package](https://img.shields.io/npm/v/npmtest-jquery-form.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquery-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquery-form.svg)](https://travis-ci.org/npmtest/node-npmtest-jquery-form)
+#### basic test coverage for  [jquery-form (v4.2.1)](https://github.com/jquery-form/form)  [![npm package](https://img.shields.io/npm/v/npmtest-jquery-form.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jquery-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jquery-form.svg)](https://travis-ci.org/npmtest/node-npmtest-jquery-form)
 
 #### The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-jquery-form/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-jquery-form/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-jquery-form/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-jquery-form/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jquery-form/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jquery-form/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-jquery-form/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-jquery-form/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-jquery-form/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-jquery-form/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-jquery-form/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-jquery-form/build/coverage.html/index.html)
 
@@ -108,7 +108,8 @@
         "url": "git+https://github.com/jquery-form/form.git"
     },
     "scripts": {},
-    "version": "4.2.1"
+    "version": "4.2.1",
+    "bin": {}
 }
 ```
 
